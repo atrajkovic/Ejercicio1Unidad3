@@ -1,0 +1,19 @@
+a{
+   color:#F7BE81;
+   text-decoration: none;
+
+}
+
+
+.destacado_verde {
+	color:#31B404;
+	font-style: italic;
+	font-weight: bold;
+
+}
+
+.destacado_naranja {
+	color: #FF4500;
+	font-size: medium;
+	text-align: right;
+}
